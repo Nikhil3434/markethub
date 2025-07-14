@@ -12,7 +12,7 @@ A modern marketplace built with **React** and **Tailwind CSS**, designed for buy
 - Eye-catching components
 
 ## 🚀 Live Demo
-market-hub-project.netlify.app
+https://market-hub-project.netlify.app
 
 ## 📁 Tech Stack
 
